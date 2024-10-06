@@ -1,6 +1,6 @@
 # Hi :)
 
-**Hi, I'm Jobi. The owner of UniUB (Universal Unblocker)**
+**Hi, I'm Jobi. The owner of UniUB (Universal Unblocker) A website passion project that allows students to get around school / work blocks.**
 <br>
 **I like making websites and stuff :D**
 

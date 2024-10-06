@@ -1,8 +1,7 @@
 # Hi :)
 
-## Hi, I'm Jobi. The owner of UniUB (Universal Unblocker)
-
-## I like making websites and stuff :D
+Hi, I'm Jobi. The owner of UniUB (Universal Unblocker)
+I like making websites and stuff :D
 
 # Heres some info about my profile.
 

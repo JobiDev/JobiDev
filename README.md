@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<center>
   
 <br>
 
@@ -28,4 +28,4 @@
 
 **To contact me, please use my discord. `Jobi#8313`, or `_Jobi_`**
 
-</div>
+</center>

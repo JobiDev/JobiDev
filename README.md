@@ -2,7 +2,8 @@
   
 <br>
 
-<img style="height:200px;width:200px;border-radius:20px;border:2px solid gray" src="https://avatars.githubusercontent.com/u/115511537?v=4"></img>
+<img ></img>
+<a href="https://avatars.githubusercontent.com/u/115511537?v=4"><img style="height:200px;width:200px;border-radius:20px;border:2px solid gray" src="https://avatars.githubusercontent.com/u/115511537?v=4"></a>
 
 ## Hi, I'm JobiDev. A 13 year old web developer.
 

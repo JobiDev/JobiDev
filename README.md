@@ -1,6 +1,6 @@
 web dev, i make websites 👍
 <br><br><br>
-portfolio / bio site:
+shitty portfolio / bio site, (probably outdated):
 <br>
 https://jobi.pages.dev
 <br><br>
